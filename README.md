@@ -23,3 +23,18 @@ Aplikasi ini dibangun untuk mempermudah pemilik usaha dalam memantau aktivitas b
 
 ## 🎯 Tujuan
 Membantu bisnis petshop menjadi lebih terstruktur, efisien, dan siap berkembang dengan dukungan sistem digital yang terintegrasi.
+
+---
+
+## 🌍 Penggunaan
+Telah digunakan oleh **20+ perusahaan** dengan **100+ cabang** yang tersebar di berbagai kota:
+Jakarta, Depok, Tangerang, Bekasi, Bandung, Yogyakarta, Palembang, Pekanbaru, dan Sulawesi.
+
+---
+
+## 🛠️ Teknologi
+- Microsoft Access
+- VBA (Visual Basic for Applications)
+- SQL Server
+- RDP Server
+- Integrasi Aplikasi Mobile Apps
