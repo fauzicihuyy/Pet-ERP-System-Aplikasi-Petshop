@@ -14,7 +14,7 @@ Aplikasi ini dibangun untuk mempermudah pemilik usaha dalam memantau aktivitas b
 ## 🚀 Fitur Utama
 - Manajemen Penjualan (Point of Sales)
 - Pengelolaan Stok Produk & Pakan
-- Pencatatan Layanan (Grooming & Klinik)
+- Pencatatan Layanan (Grooming, Klinik & Pet Hotel)
 - Manajemen Data Pelanggan
 - Laporan Keuangan & Operasional
 - Monitoring Bisnis Secara Real-time
